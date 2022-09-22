@@ -1,0 +1,3 @@
+@echo off
+echo Starting the bot...
+poetry run python cherrycandy/main.py

@@ -1,0 +1,3 @@
+# CherryCandy
+
+Discord bot kek
